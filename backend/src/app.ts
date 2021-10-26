@@ -1,2 +1,2 @@
-import app from './config/server';
+import {app} from './config/server';
 app;
